@@ -8,7 +8,6 @@ I'm a seasoned technology leader and software engineer based in Bangalore, India
 
 ### Current Role
 - **Technical Leadership** at Atlassian
-- **2K+ followers** and **500+ connections** on LinkedIn
 - Based in **Bangalore Urban, Karnataka, India**
 
 ## 🛠️ Technical Expertise
@@ -39,7 +38,6 @@ I'm passionate about:
 ## 📚 Education & Certifications
 - **Bachelor's Degree** - B.M.S. College of Engineering (1999-2003)
 
-
 ## 🌟 What I'm Working On
 
 ### Recent Projects
@@ -57,25 +55,6 @@ I'm passionate about:
 - **LinkedIn**: [anandharidas](https://www.linkedin.com/in/anandharidas/)
 - **Location**: Bangalore, Karnataka, India
 - **Interests**: AI/ML, Data Science, Enterprise Architecture, Technical Leadership
-
-## 💡 Philosophy
-
-> "Learn math, physics, engineering, and computer science. We might have super intelligent AI assistants in a while, but we'll be the ones who know how to work with them effectively."
-
-I believe in continuous learning and staying at the forefront of technology while building solutions that make a real impact in the enterprise world.
-
-## 🏆 Recognition
-
-- **2K+ LinkedIn followers** - Building a strong professional network
-- **500+ connections** - Active in the tech community
-- **Speaker** at major tech conferences and events
-- **Technical Director** - Proven leadership in enterprise environments
-
----
-
-*"ज़िन्दगी बड़ी होनी चाहिए, लंबी नहीं।”* 😊
-
----
 
 ### 📊 GitHub Stats
 
